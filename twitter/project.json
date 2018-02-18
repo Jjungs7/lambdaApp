@@ -1,0 +1,8 @@
+{
+  "name": "twitter",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::499439169369:role/hello_lambda_function",
+  "environment": {}
+}
